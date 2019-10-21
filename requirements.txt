@@ -125,7 +125,7 @@ virtualenv==15.0.1
 virtualenv-clone==0.2.6
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.0.8
 WTForms==2.1
 zope.component==4.2.2
